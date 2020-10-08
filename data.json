@@ -924,7 +924,8 @@
 	},
 	{
 		"flag": "https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f2.svg",
-		"country": "St. Pierre & Miquelon"
+		"country": "St. Pierre & Miquelon",
+		"code": "pm"
 	},
 	{
 		"flag": "https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f3.svg",
